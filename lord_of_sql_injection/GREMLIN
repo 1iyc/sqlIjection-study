@@ -3,3 +3,14 @@ https://los.eagle-jump.org/gremlin_bbc5af7bed14aa50b84986f2de742f31.php?id=test%
 query : select id from prob_gremlin where id='test'or'1'='1'#--' and pw=''
 
 Should Study Remark in Valuable DB
+
+DB Remark
+
+Microsoft SQL Server & Oracle
+One Line: --
+Multiple Line: /* */
+
+MySQL
+One Line: -- (Should be behind space or extra character)
+          #
+Multiple Line: /* */
